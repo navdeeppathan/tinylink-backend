@@ -880,7 +880,7 @@ For issues or questions:
 - Check troubleshooting section above
 - Review main project README
 - Create an issue on GitHub
-- Contact: your.email@example.com
+- Contact: infonavdeep07@gmail.com
 
 ---
 
